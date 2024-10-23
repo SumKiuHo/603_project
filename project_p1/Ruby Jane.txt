@@ -1,0 +1,11 @@
+Ruby Jane
+03-04-2003
+rubyjane@gmail.com
+HUM688
+Science
+Major:Science
+Course:BIO501
+Major:Marketing
+Course:MKTG601
+Wallet General Balance:0.00
+Wallet Printing Balance:0.00

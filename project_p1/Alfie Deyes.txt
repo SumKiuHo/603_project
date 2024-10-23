@@ -1,0 +1,11 @@
+Alfie Deyes
+03-03-1989
+alfiedeyes@gmail.com
+FUT110
+Science
+Major:Chemistry
+Course:CHEM504
+Major:Finance
+Course:FIN503
+Wallet General Balance:0.00
+Wallet Printing Balance:0.00

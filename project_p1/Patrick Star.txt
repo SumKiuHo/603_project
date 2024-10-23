@@ -1,0 +1,14 @@
+Patrick Star
+05-05-2004
+patrickstar@gmail.com
+BEJ851
+patricks
+Business
+Major:Accounting
+Course:ACCTG601
+Minor:Marketing
+Course:MKTG603
+Minor:Finance
+Course:FIN605
+Wallet General Balance:0.00
+Wallet Printing Balance:0.00

@@ -1,0 +1,15 @@
+Kim Jisoo
+11-11-2003
+kimjisoo@email.com
+UVO299
+Business
+Major:Software Development
+Course:Data Science
+Course:comp111
+Wallet General Balance:0.00
+Wallet Printing Balance:0.00
+Transaction:Topped up general balance by $0.00
+Transaction:Topped up printing balance by $0.00
+Transaction:Topped up printing balance by $0.00
+Transaction:Topped up general balance by $0.00
+Transaction:Topped up printing balance by $0.00
